@@ -1,14 +1,7 @@
 def main():
     #escribe tu código abajo de esta línea
     #This is my first program
-    #This is how I print a message
-
-    print('Welcome to Computational Thinking class, what''s your name??')
-
-    #This is how I read a value from the user
-    yourName = input()
-
-    print('Hello ' + str(yourName))
+    #This is how I print a messag
 
     #This is how I make a simple calculation
     print('Give me a number')
@@ -19,13 +12,13 @@ def main():
     resta=number1-number2
     multi=number1*number2
 
-    print('The addition of these numbers is ')
+    #print('The addition of these numbers is ')
     print(suma)
 
-    print('The substraction of these numbers is ')
+   # print('The substraction of these numbers is ')
     print(resta)
 
-    print('The multiplication of these numbers is ')
+    #print('The multiplication of these numbers is ')
     print(multi)
 
 
