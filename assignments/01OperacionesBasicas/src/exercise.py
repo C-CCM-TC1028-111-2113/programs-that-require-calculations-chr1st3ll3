@@ -6,7 +6,7 @@ def main():
     #This is how I make a simple calculation
     print('Give me a number')
     number1 = int(input())
-    print('Give me a second number')
+    print('Give me a  number')
     number2 = int(input())
     suma=number1+number2
     resta=number1-number2
