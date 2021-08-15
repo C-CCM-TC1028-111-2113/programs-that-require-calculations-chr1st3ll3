@@ -9,11 +9,5 @@ def main():
     print("Resta:",r)
     print("Multiplicación:",m)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8c7cb264a4b910da80080d4250297ab64fb987e3
-
-
 if __name__ == '__main__':
     main()
